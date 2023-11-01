@@ -1,6 +1,6 @@
 {
     "name": "mageinic/discountfilter",
-    "description": "MageINIC Discount filter on Category Layered Navigation improve customer user experience.",
+    "description": "Discount Filter Extension by MageINIC, Enhance your online shopping experience with our advanced discount filter extension. Now, easily filter products by discounts, utilizing precise percentage and amount calculations. Refine your search further by filtering products within specific discount percentage ranges. Find the best deals effortlessly!",
     "require": {
         "php": "^8.0",
         "mageinic/core": ">=1.0.*",
@@ -12,7 +12,8 @@
     "type": "magento2-module",
     "version": "1.0.0",
     "license": [
-        "Commercial"
+        "OSL-3.0",
+        "AFL-3.0"
     ],
     "authors": [
         {
