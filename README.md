@@ -11,7 +11,7 @@
 Run the following command in Magento 2 root folder
 
 ```
-composer require mageinic/discountfilter
+composer require mageinic/discount-filter
 
 php bin/magento maintenance:enable
 php bin/magento setup:upgrade

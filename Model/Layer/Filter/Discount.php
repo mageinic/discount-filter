@@ -35,7 +35,9 @@ use Magento\Framework\App\RequestInterface;
 use Magento\Framework\Exception\LocalizedException;
 use Magento\Framework\Phrase;
 use Magento\Store\Model\StoreManagerInterface;
-
+/**
+ * DiscountFilter layer filter Discount class
+ */
 class Discount extends AbstractFilter
 {
     /**

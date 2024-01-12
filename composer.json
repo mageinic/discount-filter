@@ -1,5 +1,5 @@
 {
-    "name": "mageinic/discountfilter",
+    "name": "mageinic/discount-filter",
     "description": "Discount Filter Extension by MageINIC, Enhance your online shopping experience with our advanced discount filter extension. Now, easily filter products by discounts, utilizing precise percentage and amount calculations. Refine your search further by filtering products within specific discount percentage ranges. Find the best deals effortlessly!",
     "require": {
         "php": "^8.0",
